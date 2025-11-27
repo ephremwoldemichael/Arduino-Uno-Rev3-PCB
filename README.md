@@ -14,7 +14,7 @@ It includes both the **schematic** and a complete **PCB layout**, following the 
 * Reset circuitry
 
 
-## 🎯 What This Project Demonstrates
+## What This Project Demonstrates
 
 * Schematic design in Altium
 * PCB routing, grounding, and power distribution
